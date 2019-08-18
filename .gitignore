@@ -6,3 +6,4 @@ obj
 .vscode
 .sonarlint
 .vs
+node_modules
