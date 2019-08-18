@@ -4,3 +4,5 @@ bin
 obj
 .sonarqube
 .vscode
+.sonarlint
+.vs
